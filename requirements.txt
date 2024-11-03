@@ -3,5 +3,3 @@ streamlit
 pandas 
 numpy
 seaborn
-scikit_learn
-pydotplus
