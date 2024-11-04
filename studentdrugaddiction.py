@@ -85,3 +85,4 @@ sns.countplot(x='Addiction_Class', hue='Addiction_Class', data=df, palette='Set2
 plt.title("Target Variable vs Count")
 plt.legend(labels=['No Addict', 'Addict'], title='Addiction Class')
 
+st.pyplot(fig)
