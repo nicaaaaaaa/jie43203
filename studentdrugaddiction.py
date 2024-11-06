@@ -86,4 +86,3 @@ plt.title("Target Variable vs Count")
 plt.legend(labels=['No Addict', 'Addict'], title='Addiction Class')
 
 fig = plt.gcf()
-st.pyplot(fig)
